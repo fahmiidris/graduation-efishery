@@ -7,7 +7,7 @@ const VariaetyOfLearningPage = () => {
         Ragam Pembelajaran Yang di Dapatkan Selama Magang
       </h1>
 
-      <div className="pt-8">
+      <div className="flex flex-col items-center justify-center pt-8">
         <p>Dapat ikan apa aja dari eFishery? Banyak!!!</p>
 
         <ol className="grid grid-cols-4 gap-8 pt-4">
