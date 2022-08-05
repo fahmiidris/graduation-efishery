@@ -28,10 +28,10 @@ export const navigations = {
       title: 'Feedback for eFishery',
       href: '/feedback-for-efishery',
     },
-    {
-      title: 'Interesting Thing',
-      href: '/interesting-thing',
-    },
+    // {
+    //   title: 'Interesting Thing',
+    //   href: '/interesting-thing',
+    // },
     {
       title: 'Thank You!',
       href: '/thank-you',
