@@ -13,7 +13,7 @@ const GoodThingsPage = () => {
 
       <div className="flex flex-col  items-center justify-center space-y-8 pt-8 text-center">
         <Image.Wrapper className="relative aspect-video h-64 overflow-hidden rounded-sm">
-          <Image src={goodthings} alt="Good Things" />
+          <Image src={goodthings} alt="Good Things" placeholder="blur" />
         </Image.Wrapper>
 
         <p>
